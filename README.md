@@ -59,20 +59,21 @@ sample payload:
 
 # Task
 
-You are required to build a next.js(10) app which will have the functionalities given above in the form of api request. Logged in users should be able to view his profile.
+You are required to build a next.js(11) app which will have the functionalities given above in the form of api request. Logged in users should be able to view his profile.
 
 Your app will contain the follwing pages
 1. `/signup` and login (can be 2 page or single page)
 2. `/` page. This just show you're logged in. Users will be redirected in this page after login/signup
 3. `/profile` need to see the user profile.
 
-This is a fairly simple app. We don't want to see how good the UI looks(because we know you can make good UI). Your project will be evaluated 
+This is a fairly simple app. We don't want to see how good the UI looks Your project will be evaluated 
 based on the following criteria
 
 1. Coding Standards.
 2. Proper use of available libraries and state managements
 3. Properly handling errors and showing errors
-4. Validations
+4. Validations (hint: use react form hook ;) )
+5. Mobile Responsiveness
 
 
 
